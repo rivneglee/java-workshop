@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8acc8e7c-e8b7-49f5-8abc-d50cca367bba" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-312858497">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="708" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="708" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java-deep-learn" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>before</find>
+      <find>writeObject</find>
+      <find>Node</find>
+      <find>new Node</find>
+      <find>getAlias</find>
+      <find>InnerClass</find>
+      <find>instance</find>
+      <find>dead</find>
+      <find>dea</find>
+      <find>submit</find>
+      <find>workQueue</find>
+      <find>workQueue.</find>
+      <find>offer</find>
+      <find>put</find>
+      <find>.poll</find>
+      <find>take</find>
+      <find>poll</find>
+      <find>capacity</find>
+      <find>.take</find>
+      <find>newCached</find>
+      <find>add</find>
+      <find>iterator</find>
+      <find>`</find>
+      <find>Future</find>
+      <find>getExtClassLoader</find>
+      <find>getExtDirs</find>
+      <find>fde</find>
+      <find>findClass</find>
+      <find>defineClass</find>
+      <find>write[</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/stardust/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/collection/Set.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/collection/_Set.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/reflection/_ClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/reflection/TargetClass.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/reflection/_Method.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/reflection/_Field.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/collection/_LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/basic/DeadLock.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/basic/ProducerAndConsumer.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/basic/basic/DeadLock.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/basic/ThreadSafeSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_Future.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_Callable.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_Executor.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_ThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/ProducerAndConsumer.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_SynchronousQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_CyclicBarrier.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/Semaphore.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/ProducerAndConsumerWithBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/PACWithBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/PACWithReentryLock.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/PACWithReentrantLock.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/collection/_List.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/reflection/_Class.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_Semaphore.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/java5/_CountDownLatch.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/collection/_Map.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/concurrency/basic/ThreadDataTransfer.java" />
+        <option value="$PROJECT_DIR$/fixtures/TargetClass.java" />
+        <option value="$PROJECT_DIR$/fixtures/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/jvm/_ClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/io/_ByteArrayInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/io/_StringBufferInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/io/_SequenceInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/stardust/io/_ObjectStream.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="716" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-deep-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-deep-learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-deep-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-deep-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-deep-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-deep-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stardust" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536994268565" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stardust.reflection" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application._ObjectStream">
+    <configuration name="_ByteArrayInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stardust.io._ByteArrayInputStream" />
+      <module name="java-deep-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stardust.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_Callable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stardust.concurrency.java5._Callable" />
+      <module name="java-deep-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stardust.concurrency.java5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_ClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stardust.jvm._ClassLoader" />
+      <module name="java-deep-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stardust.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_ObjectStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stardust.io._ObjectStream" />
+      <module name="java-deep-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stardust.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_SequenceInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stardust.io._SequenceInputStream" />
+      <module name="java-deep-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stardust.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application._Callable" />
+      <item itemvalue="Application._ClassLoader" />
+      <item itemvalue="Application._ByteArrayInputStream" />
+      <item itemvalue="Application._SequenceInputStream" />
+      <item itemvalue="Application._ObjectStream" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._ObjectStream" />
+        <item itemvalue="Application._SequenceInputStream" />
+        <item itemvalue="Application._ByteArrayInputStream" />
+        <item itemvalue="Application._ClassLoader" />
+        <item itemvalue="Application._Callable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8acc8e7c-e8b7-49f5-8abc-d50cca367bba" name="Default Changelist" comment="" />
+      <created>1536832084318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536832084318</updated>
+      <workItem from="1536832088074" duration="584000" />
+      <workItem from="1536931818375" duration="4407000" />
+      <workItem from="1536984014188" duration="926000" />
+      <workItem from="1536993309658" duration="750000" />
+      <workItem from="1536996357037" duration="42000" />
+      <workItem from="1536996479156" duration="127000" />
+      <workItem from="1536997464900" duration="409000" />
+      <workItem from="1536997952954" duration="20138000" />
+      <workItem from="1537151941138" duration="51182000" />
+      <workItem from="1537501447154" duration="8963000" />
+      <workItem from="1537865085371" duration="7549000" />
+      <workItem from="1537952736743" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95881000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32901135" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3069467" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3279483" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4800638" visible="true" weight="0.2463651" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32890624" />
+      <window_info id="Structure" order="1" sideWeight="0.5199362" side_tool="true" visible="true" weight="0.2463651" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5364668" />
+      <window_info id="Favorites" order="7" sideWeight="0.5144357" side_tool="true" weight="0.19466881" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3273906" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.23828755" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/stardust/collection/_Set.java</url>
+          <line>5</line>
+          <properties class="com.stardust.collection._Set" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>837</line>
+          <properties class="java.util.concurrent.ThreadPoolExecutor" method="onShutdown">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/stardust/concurrency/basic/ThreadSafeSingleton.java</url>
+          <line>7</line>
+          <properties field="instance" class="com.stardust.concurrency.basic.ThreadSafeSingleton.StaticClassSingleton.SingletonHandler" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/stardust/concurrency/basic/ThreadSafeSingleton.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java</url>
+          <line>331</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java</url>
+          <line>374</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java</url>
+          <line>417</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/stardust/collection/_List.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/stardust/collection/_List.java</url>
+          <line>165</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/stardust/concurrency/java5/_Semaphore.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/stardust/jvm/_ClassLoader.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
